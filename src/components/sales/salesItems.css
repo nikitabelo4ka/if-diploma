@@ -1,0 +1,13 @@
+.swiper-wrapper {
+    margin: 0 100px 0 30px;
+    
+}
+
+.swiper-button-prev, .swiper-button-next {
+    color: #000000;
+}
+
+.swiper-slide {
+    width: 400px !important;
+    margin-right: 60px !important;
+}

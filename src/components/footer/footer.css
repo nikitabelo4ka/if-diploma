@@ -1,0 +1,118 @@
+.footer {
+    background-color: #ffffff;
+}
+
+.footer-subscription {
+    width: 100%;
+    margin: 180px auto 80px;
+}
+
+.footer-subscription-text-first {
+    width: 379px;
+    height: 31px;
+    font-size: 32px;
+    margin: 0 auto;
+}
+
+.footer-subscription-text-second {
+    width: 700px;
+    font-size: 24px;
+    height: 24px;
+    margin: 32px auto 0;
+}
+
+.footer-subscription-form {
+    width: 800px;
+    margin: 100px auto 0;
+    border-bottom: 2px solid #D8D8D8;
+}
+
+.footer-subscription-form-input {
+    outline: none;
+    border: none;
+    font-size: 32px;
+    color: #8C8C8C;
+    width: 713px;
+}
+
+.footer-subscription-form-button {
+    padding: 0;
+    font-size: 32px;
+    background-color: #ffffff;
+    color: #000000;
+    border: none;
+    width: 77px;
+    height: 48px;
+    cursor: pointer;
+}
+
+.footer-lists {
+    display: flex;
+    margin-top: 122px;
+}
+
+.footer-list-item {
+    list-style: none;
+    height: 24px;
+    margin-bottom: 40px;
+}
+
+.footer-list-link {
+    color: #000000;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 24px;
+}
+
+.footer-list-header {
+    font-size: 32px;
+    margin-bottom: 60px;
+    height: 48px;
+}
+
+.footer-list-follow {
+    margin-left: 40px;
+}
+
+.footer-list-media-logo {
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    left: 0px;
+}
+
+.footer-list-item-follow {
+    margin-left: 20px;
+}
+
+.customer-service {
+    position: absolute;
+    left: 207px;
+}
+
+.info {
+    position: absolute;
+    left: 700px;
+}
+
+.follow-us {
+    position: absolute;
+    left: 1100px;
+}
+
+.contact-us {
+    position: absolute;
+    left: 1500px;
+}
+
+.contact-us-item {
+    margin-bottom: 30px;
+}
+
+.successful-response {
+    margin: 97px auto 220px;
+    padding: 50px 30px;
+    width: 680px;
+    font-size: 32px;
+    border: 1px solid #8C8C8C;
+}

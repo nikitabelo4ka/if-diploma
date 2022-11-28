@@ -1,0 +1,52 @@
+.category-button {
+    display: flex;
+    width: 280px;
+    height: 180px;
+    background-color: #EDE7F0;
+    color: #000000;
+    font-size: 28px;
+    border: none;
+    cursor: pointer;
+}
+
+.dresses-category {
+    width: 63px;
+    height: 100px;
+    margin: 40px 0 0 35px;
+}
+
+.tess-category {
+    width: 100px;
+    height: 91px;
+    margin: 40px 0 0 35px;
+}
+
+.swimwear-category {
+    width: 57px;
+    height: 100px;
+    margin: 40px 0 0 35px;
+}
+
+.denim-category {
+    width: 44.5px;
+    height: 100px;
+    margin: 40px 0 0 35px;
+}
+
+.tops-category {
+    width: 70.5px;
+    height: 100px;
+    margin: 40px 0 0 35px;
+}
+
+.beauty-category {
+    width: 70px;
+    height: 100px;
+    margin: 40px 0 0 35px;
+}
+
+.category-name {
+    width: 160px;
+    height: 80px;
+    margin: 70px 0 0 0;
+}

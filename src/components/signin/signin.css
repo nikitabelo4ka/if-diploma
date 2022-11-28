@@ -1,0 +1,50 @@
+.sign-in {
+    width: 800px;
+    margin: 100px auto 100px;
+    border: 1px solid #8C8C8C;
+}
+
+.sign-in * {
+    font-family: 'Helvetica LT Std', sans-serif;
+    border: none;
+}
+
+.sign-in-form-header {
+    width: 700px;
+    display: flex;
+    margin: 50px auto 0;
+}
+
+.sign-in-header-name {
+    font-size: 28px;
+    margin-right: 572px;
+}
+
+.sign-in-header-remove-icon {
+    width: 23px;
+    height: 23px;
+}
+
+.sign-in-inputs-wrapper {
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+    margin: 50px auto 0;
+}
+
+.sign-in-input {
+    height: 50px;
+    color: #8C8C8C;
+    border-bottom: 1px solid #8C8C8C;
+    outline: none;
+}
+
+.sign-in-button {
+    margin: 50px 0 50px 250px;
+    width: 300px;
+    height: 60px;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 24px;
+    cursor: pointer;
+}

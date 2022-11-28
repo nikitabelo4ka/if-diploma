@@ -1,0 +1,72 @@
+.header-other a {
+    color: #000000;
+}
+
+.header-other .main-logo, .header-other .main-search-icon, .header-other .main-wishlist-icon  {
+    fill: #000000;
+}
+
+.header-other {
+    display: flex;
+    padding-top: 25px;
+}
+
+.header-home {
+    display: flex;
+    padding-top: 25px;
+    color: #ffffff;
+}
+
+.header-home a {
+    color: #ffffff;
+}
+
+.main-logo {
+    width: 273px;
+    height: 50px;
+    position: absolute;
+    left: 820px;
+    top: 20px;
+    fill: #ffffff;
+}
+
+.main-search-icon {
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+    fill: #fff;
+}
+
+.main-search {
+    cursor: pointer;
+    display: flex;
+}
+
+.main-wishlist-icon {
+    width: 27px;
+    height: 24px;
+    fill: #fff;
+}
+
+.left-navigation-text, .right-navigation-text {
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.left-navigation, .right-navigation {
+    display: flex;
+    justify-content: space-between;
+    width: 567px;
+}
+
+.left-navigation {
+    margin-left: 120px;
+}
+
+.right-navigation {
+    margin: 0 120px 0 500px;
+}
+
+.right-navigation-text {
+    cursor: pointer;
+}

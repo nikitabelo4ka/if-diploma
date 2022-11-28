@@ -1,0 +1,71 @@
+.shop-instagram {
+    position: relative;
+    margin: 130px 45px 1050px;
+}
+
+.instagram-shop-header {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.shop-instagram-label, .shop-instagram-link {
+    font-size: 32px;
+    height: 31px;
+}
+
+.shop-instagram-label {
+    width: 278px;
+}
+
+.shop-instagram-link {
+    width: 130px;
+    text-decoration: none;
+    color: #000000;
+    margin-left: 60px;
+}
+
+.instagram-shop-link-arrow {
+    width: 10px;
+    height: 21px;
+    margin-left: 10px;
+}
+
+.instagram-picture {
+    position: absolute;
+}
+
+.picture2 {
+    width: 900px;
+    height: 900px;
+}
+
+.picture3, .picture1, .picture5 {
+    width: 450px;
+    height: 450px;
+}
+
+.picture3 {
+    left: 884px;
+}
+
+.picture5 {
+    left: 1334px;
+}
+
+.picture4 {
+    width: 453px;
+    height: 450px;
+    top: 511px;
+    left: 884px;
+}
+
+.picture1 {
+    left: 1334px;
+    top: 511px;
+}
+
+.instagram-shop-signature {
+    font-weight: 500;
+    position: absolute;
+    top: 970px;
+}

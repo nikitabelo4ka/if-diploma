@@ -1,0 +1,9 @@
+export const ADD_TO_LIST = 'ADD_TO_LIST';
+export const REMOVE_FROM_LIST = 'REMOVE_FROM_LIST';
+export const ADD_TO_BAG = 'ADD_TO_BAG';
+export const CHANGE_QUANTITY = 'CHANGE_QUANTITY';
+export const REMOVE_FROM_BAG = 'REMOVE_FROM_BAG';
+export const CLEAR_BAG = 'CLEAR_BAG';
+export const UPLOAD_ITEMS = 'UPLOAD_ITEMS';
+export const UPLOAD_FOUND_ITEMS = 'UPLOAD_FOUND_ITEMS';
+export const CLEAR_FOUND_ITEMS = 'CLEAR_FOUND_ITEMS';

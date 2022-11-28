@@ -1,0 +1,11 @@
+.found-items-by-search {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.items-by-search-not-found {
+    font-size: 30px;
+    width: 140px;
+    margin: 0 auto;
+}

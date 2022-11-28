@@ -1,0 +1,130 @@
+.item-page {
+    margin-top: 20px;
+    height: 100vh;
+    display: flex;
+}
+
+.item-page * {
+    font-family: 'Helvetica LT Std Light', sans-serif;
+}
+
+.images-wrapper {
+    height: 820px;
+}
+
+.item-image-1, .item-image-2 {
+    height: 92vh;
+}
+
+.item-information-name {
+    font-size: 35px;
+}
+
+.item-information-price {
+    margin-top: 20px;
+    font-size: 24px;
+    color: #000F08;
+}
+
+.item-information-color-name, .item-information-size-name {
+    margin-top: 30px;
+    font-size: 24px;
+    color: #8C8C8C;
+}
+
+.item-information-color {
+    margin: 10px 0 0 13px;
+    width: 45px;
+    height: 45px;
+    border: 1px solid #000000;
+}
+
+.item-information-size {
+    margin-top: 10px;
+    margin-right: 5px;
+    font-size: 24px;
+}
+
+.item-add-to-bag-button {
+    cursor: pointer;
+    width: 300px;
+    height: 80px;
+    font-size: 32px;
+    background-color: #000000;
+    color: #ffffff;
+    border: none;
+  }
+
+.item-add-to-wishlist-button {
+    height: 80px;
+    width: 80px;
+    background-color: #000000;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    margin-left: 2px;
+}
+
+.item-add-to-wishlist-logo {
+    transition: fill 0.5s ease-out;
+}
+
+.button-add-active {
+    fill: #ffffff;
+}
+  
+.button-add-unactive {
+    fill: #ffffff63;
+}
+
+.item-information {
+    margin: 50px auto 0;
+}
+
+.add-item-buttons {
+    display: flex;
+    margin-top: 30px;
+}
+
+.disabled {
+    color:#433e3e;
+    cursor: default;
+}
+
+.unactive {
+    display: none;
+}
+
+.drop-down-informations {
+    margin-top: 25px;
+}
+
+.dropdown-wrapper {
+    display: flex;
+}
+
+.dropdown-information {
+    margin-top: 20px;
+}
+
+.open-dropdown-icon {
+    cursor: pointer;
+    width: 14px;
+    height: 14px;
+    margin-top: 6px;
+}
+
+.dropdown-information-name {
+    margin-left: 20px;
+    font-size: 24px;
+}
+
+.dropdown-information-text {
+    color: #8C8C8C;
+    margin-top: 20px;
+    width: 300px;
+}
+
+.item-information-sizes-wrapper {
+    display: flex;
+}

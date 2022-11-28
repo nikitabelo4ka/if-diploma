@@ -1,0 +1,22 @@
+.categories {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 50px;
+}
+
+.unactive {
+    display: none;
+}
+
+.found-items {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+.not-found {
+    width: 350px;
+    margin: 80px auto 0;
+    font-size: 30px;
+}

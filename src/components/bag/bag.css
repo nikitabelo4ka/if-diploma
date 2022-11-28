@@ -1,0 +1,133 @@
+.bag * {
+    font-family: 'Helvetica LT Std', sans-serif;
+}
+
+.bag-header-name {
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.bag-header-quantity {
+    margin: 15px 0 0 25px;
+    font-size: 17px;
+    color: #8C8C8C;
+}
+
+.bag-header {
+    margin: 100px auto 0;
+    width: 700px;
+    display: flex;
+    border-bottom: 2px solid #D8D8D8;
+}
+
+.bag-item {
+    padding: 40px 0 70px 0;
+    display: flex;
+    margin: 0px 0 0 600px;
+    border-bottom: 2px solid #D8D8D8;
+    width: 730px;
+}
+
+.bag-item-icon {
+    width: 250px;
+}
+
+.bag-item-description {
+    margin: 15px 0 0 30px;
+}
+
+.bag-item-name {
+    font-size: 32px;
+}
+
+.bag-item-price-wrapper {
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+.bag-item-color-wrapper {
+    margin-top: 20px;
+    display: flex;
+    font-size: 23px;
+}
+
+.bag-item-color {
+    margin-left: 6px;
+}
+
+.bag-item-size-wrapper, .bag-item-quantity-wrapper {
+    display: flex;
+    font-size: 23px;
+    margin-top: 20px;
+}
+
+.bag-item-size-select, .bag-item-quantity-select {
+    margin-left: 10px;
+    border: none;
+}
+
+.bag-item-size-select:focus-visible {
+    outline: none;
+}
+
+.bag-item-quantity-select:focus-visible {
+    outline: none;
+}
+
+.bag-item-remove-icon {
+    margin-top: 3px;
+    width: 12px;
+    height: 12px;
+}
+
+.bag-item-remove {
+    display: flex;
+    margin: 133px 0 0 300px;
+}
+
+.bag-item-remove-button {
+    width: 70px;
+    height: 18px;
+    cursor: pointer;
+    background-color: #ffffff;
+    border: none;
+}
+
+.unactive {
+    display: none;
+}
+
+.bag-total-price {
+    display: flex;
+    font-size: 40px;
+    margin: 70px 0 0 0;
+    justify-content: center;
+}
+
+.bag-send-button {
+    margin: 20px 0 0 750px;
+    width: 400px;
+    height: 100px;
+    background-color: #000000;
+    color: #ffffff;
+    border: none;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.bag-send-pay-icon1, .bag-send-pay-icon2 {
+    width: 80px;
+    height: 48px;
+}
+
+.bag-send-pay {
+    display: flex;
+    margin: 20px 0 0 0;
+    justify-content: center;
+}
+
+.products-response {
+    font-size: 40px;
+    width: 900px;
+    margin: 150px auto 0;
+}

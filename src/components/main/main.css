@@ -1,0 +1,35 @@
+.main-page {
+    min-height: 100vh;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.main-title {
+    font-weight: 700px;
+    font-size: 76px;
+    color: #ffffff;
+}
+
+.main-description {
+    margin: 40px 0 60px 0;
+    font-size: 32px;
+    color: #ffffff;
+}
+
+.main-button {
+    font-size: 32px;
+    color: #ffffff;
+    background-color: transparent;
+    border: 2px solid #ffffff;
+    padding: 20px 30px;
+    width: 480px;
+    height: 100px;
+    cursor: pointer;
+}
+
+.main-bottom-content {
+    position: absolute;
+    left: 150px;
+    top: 400px;
+}
