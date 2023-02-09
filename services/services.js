@@ -1,5 +1,5 @@
 export const getSubscriptionMessage = (body) => {
-    return fetch('https://modnikky-api.herokuapp.com/api/subscription', {
+    return fetch('https://if-modnikky-api.onrender.com/api/subscription', {
         method: 'POST',
         body: JSON.stringify({ email: body }),
         headers: {
@@ -9,7 +9,7 @@ export const getSubscriptionMessage = (body) => {
 }
 
 export const sendOrder = (body) => {
-    return fetch('https://modnikky-api.herokuapp.com/api/cart', {
+    return fetch('https://if-modnikky-api.onrender.com/api/cart', {
         method: 'POST',
         body: JSON.stringify({ products: body }),
         headers: {
@@ -18,4 +18,4 @@ export const sendOrder = (body) => {
       })
 }
 
-export const getItems = () => fetch('https://modnikky-api.herokuapp.com/api/catalog');
+export const getItems = () => fetch('https://if-fox-library-api.onrender.com/api/library');
